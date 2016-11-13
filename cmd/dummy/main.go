@@ -4,8 +4,8 @@ import (
 	"flag"
 
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tmsp/example/dummy"
-	"github.com/tendermint/tmsp/server"
+	"github.com/edatw/tmsp/example/dummy"
+	"github.com/edatw/tmsp/server"
 )
 
 func main() {
