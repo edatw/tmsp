@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tmsp/client"
-	"github.com/tendermint/tmsp/types"
+	"github.com/edatw/tmsp/client"
+	"github.com/edatw/tmsp/types"
 	"github.com/urfave/cli"
 )
 
